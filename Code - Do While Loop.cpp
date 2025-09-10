@@ -2,7 +2,7 @@
 using namespace std;
 int main ()
 {
-    int age = 19;
+    int age = 19
     
     do {
         cout << age << " years of living" << "\n";
